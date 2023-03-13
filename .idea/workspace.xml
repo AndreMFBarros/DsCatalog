@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b26f953-0c28-4cbc-a50b-4ca36c029ae4" name="Changes" comment="" />
+    <list default="true" id="7b26f953-0c28-4cbc-a50b-4ca36c029ae4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dscatalog/dscatalog/src/main/java/com/andrebarros/dscatalog/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dscatalog/dscatalog/src/main/java/com/andrebarros/dscatalog/resource/CategoryResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Meh5hsbtPooVIETWeY25hdoS1Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +49,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "afd9430fb809d79d8e3780c6984c5fee"
   }
 }]]></component>
   <component name="RunManager">
@@ -53,7 +72,8 @@
       <updated>1678133773672</updated>
       <workItem from="1678133774840" duration="51000" />
       <workItem from="1678133841333" duration="644000" />
-      <workItem from="1678134584877" duration="663000" />
+      <workItem from="1678134584877" duration="1643000" />
+      <workItem from="1678733546970" duration="5117000" />
     </task>
     <servers />
   </component>
